@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Shimpi
-- 👀 I’m interested in turning data into insightful visuls, playing with data!
+- 👀 I’m interested in turning data into insightful visuals, playing with data!
 - 🌱 I’m currently learning Data Analytics
 - 📫 You can Reach me at rrshimpi0901@gmail.com
 
